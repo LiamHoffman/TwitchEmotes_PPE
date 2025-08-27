@@ -1,0 +1,8 @@
+## Interface: 110107, 110200
+## Version: 11
+## Title: PPE Twitch Emotes
+## IconTexture: Interface\AddOns\TwitchEmotes\Emotes\1337.tga
+## Dependencies: TwitchEmotes
+emotes.lua
+animation.lua
+main.lua
