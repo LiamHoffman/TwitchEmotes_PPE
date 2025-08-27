@@ -7,6 +7,10 @@ function PPETwitchEmotes:init()
 		["bigStew"] = {
 			["Name"] = "bigStew",
 			["Path"] = PPETwitchEmotes.Path .. "bigStew.tga:28:28",
+		},
+        ["frySpin"] = {
+			["Name"] = "frySpin",
+			["Path"] = PPETwitchEmotes.Path .. "frySpin.tga:28:28",
 		}
 	};
 
