@@ -5,12 +5,25 @@ PPETwitchEmotes = {
 function PPETwitchEmotes:init()
 	local emotes1 = {
 		["bigStew"] = {
-			["Name"] = "bigStew",
-			["Path"] = PPETwitchEmotes.Path .. "bigStew.tga:28:28",
+			["Name"] = "bigStew"
 		},
         ["frySpin"] = {
-			["Name"] = "frySpin",
-			["Path"] = PPETwitchEmotes.Path .. "frySpin.tga:28:28",
+			["Name"] = "frySpin"
+		},
+        ["oops"] = {
+			["Name"] = "oops"
+		},
+        ["stuburt"] = {
+			["Name"] = "stuburt"
+		},
+        ["joe"] = {
+			["Name"] = "joe"
+		},
+        ["wipe"] = {
+			["Name"] = "wipe"
+		},
+        ["zazaberk"] = {
+			["Name"] = "zazaberk"
 		}
 	};
 
